@@ -1,0 +1,5 @@
+[user]
+	name = homer
+	email = homer@puppetlabs.vm
+[color]
+	ui = always
